@@ -1,0 +1,66 @@
+button{
+    color: white;
+    padding: 10px 20px;
+    margin: auto 20px;
+    border: none;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+
+#b1,#b11,#b12,#b14{
+    background-color: rgb(68,47,227);
+    border-radius: 5px;
+}
+#b2{
+    background-color: rgb(135,133,150);
+    border-radius: 5px;
+}
+#b3{
+    background-color: rgb(7,105,68);
+    border-radius: 5px;
+}
+#b4{
+    background-color: rgb(68,47,227);
+    border-radius: 5px;
+
+}
+#b5{
+    background-color: rgb(232,206,14);
+    border-radius: 5px;
+}
+#b6{
+    background-color: rgb(215,23,23);
+    border-radius: 5px;
+}
+#b7,#b19{
+    background-color: rgb(68,47,227);
+    border-radius: 20px;
+}
+#b8{
+    padding: 5px;
+    background-color: rgb(68,47,227);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+#b9{
+    background-color: rgb(68,47,227);
+    border-radius: 5px;
+}
+#b10{
+    border-radius: 5px;
+    border: 1px dashed rgb(35,35,119);
+    color: rgb(35,35,119);
+}
+#b13,#b15,#b16,#b17,#b20{
+    border-radius: 5px;
+    border: 1px solid rgb(35,35,119);
+    color: rgb(35,35,119);
+}
+#b18{
+    background-color: rgb(68,47,227);
+    border-radius: 2px;
+}
